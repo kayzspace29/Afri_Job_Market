@@ -1,3 +1,3 @@
 # Afri_Job_Market
-ENTRY
+ENTRY:
 Devs trainees group project: Mastering the concepts for backend and frontend development!
